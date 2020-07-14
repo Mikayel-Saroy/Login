@@ -1,0 +1,9 @@
+.signIn {
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+    border: 0.05em solid darkgrey;
+    background-color: orangered;
+    outline: none;
+}
